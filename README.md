@@ -1,4 +1,4 @@
-maven-assembly-example
+fluentbit-assembly-artifact
 ======================
 
 > Version: ${project.version}
